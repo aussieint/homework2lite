@@ -1,4 +1,4 @@
-more_game = "Да"
+more_game = None
 quetion_amount = 5
 while more_game != "Нет":
     right_answer = 0
